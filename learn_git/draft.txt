@@ -1,4 +1,8 @@
 This is the first line of my doc
 what happens when I add a second line
 Here is my 3rd line
+<<<<<<< HEAD
 This is a 4th try of word
+=======
+Yet another line
+>>>>>>> 807317c23d41c6f07b20e59638ae5058d98f94d6
