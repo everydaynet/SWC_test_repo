@@ -1,0 +1,2 @@
+This is the first line of my doc
+what happens when I add a second line
